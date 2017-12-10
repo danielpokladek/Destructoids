@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0b70d3c4671d2348a20fcdae5d1e094
+timeCreated: 1488309310
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RadVis: {fileID: 1414079648653226, guid: 3743d591c09595a4d9b97294b427c6cb, type: 2}
+  - asteroidManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
