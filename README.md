@@ -1,4 +1,4 @@
-# University Year 1 | Semester 2 - Group Project.
+# University Year 1 | Semester 2 - Group Project
 
 This is a repository for my first year group project; this is second semester. I have worked on this with a group (members below),
 I have decided to archive it for the purpose of being able to look back at it or continue working on it.
